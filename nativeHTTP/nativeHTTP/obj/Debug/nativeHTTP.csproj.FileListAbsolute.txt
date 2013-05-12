@@ -1,0 +1,5 @@
+C:\Users\Jaxbot\Documents\Visual Studio 2008\Projects\nativeHTTP\nativeHTTP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jaxbot\Documents\Visual Studio 2008\Projects\nativeHTTP\nativeHTTP\bin\Debug\nativeHTTP.exe
+C:\Users\Jaxbot\Documents\Visual Studio 2008\Projects\nativeHTTP\nativeHTTP\bin\Debug\nativeHTTP.pdb
+C:\Users\Jaxbot\Documents\Visual Studio 2008\Projects\nativeHTTP\nativeHTTP\obj\Debug\nativeHTTP.exe
+C:\Users\Jaxbot\Documents\Visual Studio 2008\Projects\nativeHTTP\nativeHTTP\obj\Debug\nativeHTTP.pdb

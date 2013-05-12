@@ -1,0 +1,3 @@
+
+
+<?xml<?xml version="1.0" encoding="utf-8"?><wp:Notification xmlns:wp="WPNotification"><wp:Toast><wp:Text1>Test App</wp:Text1><wp:Text2>Here's a test notification.</wp:Text2></wp:Toast> </wp:Notification>

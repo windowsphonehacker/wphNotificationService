@@ -1,0 +1,5 @@
+C:\Users\Jaxbot\Documents\Visual Studio 2008\Projects\wphNotificationService\wphNotificationService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jaxbot\Documents\Visual Studio 2008\Projects\wphNotificationService\wphNotificationService\bin\Debug\wphNotificationService.exe
+C:\Users\Jaxbot\Documents\Visual Studio 2008\Projects\wphNotificationService\wphNotificationService\bin\Debug\wphNotificationService.pdb
+C:\Users\Jaxbot\Documents\Visual Studio 2008\Projects\wphNotificationService\wphNotificationService\obj\Debug\wphNotificationService.exe
+C:\Users\Jaxbot\Documents\Visual Studio 2008\Projects\wphNotificationService\wphNotificationService\obj\Debug\wphNotificationService.pdb
